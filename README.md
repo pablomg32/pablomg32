@@ -1,9 +1,8 @@
-### Hi there 👋
+BOAS VINDAS AO MEU PERFIL!!
 Meu nome é Pablo magri
 Estou estudando na alura
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-<!--
-**pablomg32/pablomg32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
